@@ -6,3 +6,8 @@
 <p><br></p>
 <p><br></p><br>
 <p><i></i></p>
+
+
+Ahi agregué un word de los avances,  En el circuito RLC aplice la funcion de transferencia y obtuve esos valores, pero en el inciso 4) pide  emplear la serie de corrientepara verificar, no entiendo como seria eso. Y En la simulacion del motor, cuando pide el torque maximo para el motorcito, puse una velocidad angular de referencia y , por lo tanto, un torque para el cual pueda seguir esa referencia, esta bien asi?
+
+
